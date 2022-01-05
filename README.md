@@ -12,4 +12,4 @@ Slides from talks that I gave at conferences / meetups.
 
 [PoplusCon 2014, Santiago: **Apps vs. APIs**](2014-05-02_PoplusCon-Santiago_APIs_Petrus-Janse-van-Rensburg.pdf)
 
-[Cape Town Python User Group 2014: **Intro to Flask-Admin**](2014-03-29_Cape-Town-Python-User-Group_Flask-Admin)
+[Cape Town Python User Group 2014: **Intro to Flask-Admin**](2014-03-29_Cape-Town-Python-User-Group_Flask-Admin.pdf)
