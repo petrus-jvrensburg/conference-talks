@@ -1,7 +1,5 @@
 # Conference talks
 
-Slides from talks that I gave at conferences / meetups.
-
 [PyconNamibia 2019, Windhoek: **Machine Learning ~ Building recommendation systems in Python with LightFM**](2019-02-21_PyconNamibia-Windhoek_Recommendation-Systems-LightFM_Petrus-Janse-van-Rensburg.pdf)
 
 [PyConZIM 2015, Harare: **Zero to Ninja Mastering software development**](2016-11-25_PyConZIM-Harare_Zero-To-Ninja_Petrus-Janse-van-Rensburg.pdf)
