@@ -1,5 +1,11 @@
 # Conference talks
 
+[ElixirZA meetup May 2023: **Building AI into your Elixir applications**](2023-05-16_ElixirZA-meetup_AI-in-Elixir-Apps.pdf)
+
+[ElixirConf Africa (remote) 2022: **Going international - using Unicode's CLDR Project to localise your software**](2022-10-07_ElixirConf-Africa_internationalisation.pdf)
+
+[ElixirZA meetup June 2022: **Going international - using Unicode's CLDR Project to localise your software**](2022-06-28_ElixirZA-meetup_gettext_and_cldr.pdf)
+
 [PyconNamibia 2019, Windhoek: **Machine Learning ~ Building recommendation systems in Python with LightFM**](2019-02-21_PyconNamibia-Windhoek_Recommendation-Systems-LightFM_Petrus-Janse-van-Rensburg.pdf)
 
 [PyConZIM 2015, Harare: **Zero to Ninja Mastering software development**](2016-11-25_PyConZIM-Harare_Zero-To-Ninja_Petrus-Janse-van-Rensburg.pdf)
