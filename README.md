@@ -1,5 +1,7 @@
 # Conference talks
 
+[ElixirConf US, September 2023: **Working with the Common Locale Data Repository in Elixir**](2023-09-07_ElixirConfUS-Orlando.pdf)
+
 [ElixirZA meetup May 2023: **Building AI into your Elixir applications**](2023-05-16_ElixirZA-meetup_AI-in-Elixir-Apps.pdf)
 
 [ElixirConf Africa (remote) 2022: **Going international - using Unicode's CLDR Project to localise your software**](2022-10-07_ElixirConf-Africa_internationalisation.pdf)
